@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    background-color: antiquewhite;
+}
+#se1{
+    background-color: black;
+}
+.nav navbar-nav:hover{
+    color: floralwhite;
+}
+#img1:hover{
+    transform: scale(0.9);
+}
+
+#h10{
+    font-family: inherit;
+    color: aqua;
+}
